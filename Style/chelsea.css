@@ -1,0 +1,60 @@
+.content-info .photo-kai img{
+    border-radius:15%;
+    -moz-border-radius:15%;
+    -webkit-border-radius:15%;
+
+}
+.content-info .photo-kai{
+   margin-left: 50px;
+}
+.content-info .infomation{
+    display: flex;
+}
+table{
+    border-collapse: collapse;
+}
+.content-info h3{
+    font-size: 40px;
+    margin-left: 60px;
+    color: rgb(20, 16, 16);
+    text-transform: uppercase;
+    
+}
+.content-info .achie .photo-kai{
+    padding: 20px;
+}
+.content-info .infomation .full-name{
+    padding: 20px;
+}
+.infomation .full-name{
+    width: 400px;
+}
+.infomation table{
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    
+}
+.infomation .full-name img{
+    padding-top: 20px;
+}
+.infomation{
+    border: 2px solid red;
+    border-radius: 8px;
+    margin-left: 60px;
+}
+
+.infomation .a_2022{
+    padding: 20px;
+}
+.content{
+    margin-bottom: 60px;
+}
+.a_2022 h4{
+    border: 1px solid;
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(146, 144, 33);
+    margin-bottom: 8px;
+   
+}

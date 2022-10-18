@@ -1,0 +1,48 @@
+
+.content-info h3{
+    color: red;
+    text-transform: uppercase;
+}
+.content-info .date{
+    max-width: 650px;
+    padding: 15px;
+    margin-top: 10px;
+    background-color: darkgray;
+}
+.content-info .ten-hag img{
+    width: 650px;
+}
+.content-info .ten-hag-text{
+    width: 650px;
+    padding-top: 15px;
+}
+.content-info .ten-hag-text p{
+    display: inline;
+    width: 650px;
+    
+}
+
+.content-info .date p{
+    float: right;
+    font-size: 12px;
+    line-height: 5px;
+}
+.red{
+    
+    background-color: red;
+    padding: 1px;
+    color: white; 
+}
+.content-info .under-top{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.content .tacgia{
+    padding-top: 50px;
+    float: right;
+    padding-bottom: 10px;
+}
+.content .tacgia p{
+    font-size: 14px;
+}

@@ -1,0 +1,45 @@
+.content-info video{
+    margin-top: 30px;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.content-info h3{
+    color: red;
+    text-transform: uppercase;
+}
+.content-info .date{
+    max-width: 760px;
+    padding: 15px;
+    margin-top: 10px;
+    background-color: darkgray;
+}
+.content-info .date p{
+    float: right;
+    font-size: 12px;
+    line-height: 5px;
+}
+.chel-wof{
+    padding-top: 10px;
+}
+.red{
+    background-color: red;
+    padding: 1px;
+    color: white;
+    
+}
+.content .nav>p>span{
+    padding-top: 10px;
+    font-size: 12px;
+    color: red;
+}
+.content .nav>p{
+    padding-top: 10px;
+    font-size: 11px;
+}
+.content-info .fb-comments{
+    margin-left: 100px;
+    
+}
+
+
